@@ -22,7 +22,7 @@ class Welcome
 		Font f4 = new Font("Tahoma",Font.PLAIN , 26);
                 String sneha="priya";
 		JFrame f = new JFrame("Welcome");
-		ImageIcon img = new ImageIcon("C:\\Users\\HP\\Desktop\\Internet-Banking-master\\vitbanklogo.PNG");
+		ImageIcon img = new ImageIcon("C:\\Users\\HP\\Desktop\\Internet-Banking-master\\itbanklogo.PNG");
 		f.setIconImage(img.getImage());
 		JButton l1 = new JButton();
 		l1.setIcon(img);
