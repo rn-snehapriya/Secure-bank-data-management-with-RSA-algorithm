@@ -4,7 +4,7 @@ This Project is submitted by ***R N SNEHA PRIYA***.
 
 This is a simple applet for bank application which stores the sensitive data like login ID, password, transaction details of the bank in encrytped format using RSA algorithm. This uses XAMPP as the database in the back-end. 
 
-(Screenshots of the interface of the applet and the XAMPP database is also included in screenshots section)
+(Screenshots of the interface of the applet is also included in screenshots section)
 
 ### Prerequisites:
 
